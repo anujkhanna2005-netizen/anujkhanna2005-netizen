@@ -46,7 +46,7 @@
 const anujKhanna = {
   role       : "Full Stack Developer & PWA Architect",
   education  : "B.Tech — Computer Science",
-  location   : "Lucknow, Uttar Pradesh, India",
+  location   : "Kanpur, Uttar Pradesh, India",
   focus      : ["Full Stack Web Development", "Progressive Web Apps", "DSA"],
   stack      : ["TypeScript", "React", "Node.js", "HTML/CSS"],
   philosophy : "Write clean code, ship fast, iterate faster.",
